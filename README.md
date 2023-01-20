@@ -88,7 +88,7 @@ The tool will go through the following steps:
 ### Analysis of the full ETF portfolio
 * Analyze the entire ETF portfolio and evaluate its performance. Tool builds the entire ETF portfolio by using SQL joins to combine all the data for each asset.
 
-### Instructions on how to deploy the notebook as a web application
+### Instructions on how to deploy the notebook as a web application using VOILA library
 * Last are instructions on how to deploy the notebook as a web application (Please also see below example). 
 
 ![Voila_Screenshot_and_Terminal.jpg](https://github.com/nielsdehaan1977/Fintech_Module7/blob/main/Images/Voila_Screenshot_and_Terminal.jpg)
